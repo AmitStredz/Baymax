@@ -9,6 +9,8 @@ import VoiceBot from "../components/voiceBot";
 import Report from "./report";
 
 export default function HomePage() {
+
+  
   useEffect(() => {
     console.log("Homepage");
   }, []);
